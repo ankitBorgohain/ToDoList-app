@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This mini-project is a basic TO-DO List App built using React.
 
 In the project directory, you can run:
+### open cmd/ VS code from that directory
 
 ### `npm start`
 
